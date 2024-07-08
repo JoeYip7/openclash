@@ -1,8 +1,8 @@
-name: Racknerd,
-type: hysteria2,
-server: 107.173.111.167,
-port: 443, 
-password: Ywj381321,
-up: 125Mbps,
-down: 1250Mbps,
-sni: cnm.sbxi.top
+"name": "Racknerd", 
+"type": "hysteria2", 
+"server": "107.173.111.167", 
+"port": 443,
+"password": "Ywj381321",
+"up": "125Mbps", 
+"down": "1250Mbps", 
+"sni": "cnm.sbxi.top".
