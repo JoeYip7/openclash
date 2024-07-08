@@ -1,0 +1,9 @@
+name: ZgoCloud, 
+type: hysteria2, 
+server: 38.49.38.198, 
+port: 443,
+password: Ywj381321,
+up: 125Mbps, 
+down: 1250Mbps, 
+sni: zgocloud.joeyip.dynv6.net
+
