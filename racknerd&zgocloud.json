@@ -3,7 +3,7 @@
     {
       "name": "Racknerd",
       "server": "107.173.111.167",
-      "port": "8443",
+      "port": 8443,
       "protocol": "udp",
       "password": "35697934fbff8317",
       "up_mbps": 100,
@@ -18,7 +18,7 @@
     {
       "name": "ZgoCloud",
       "server": "38.49.38.198",
-      "port": "443",
+      "port": 443,
       "protocol": "udp",
       "password": "Ywj381321",
       "up_mbps": 100,
